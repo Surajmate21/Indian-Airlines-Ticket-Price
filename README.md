@@ -1,6 +1,5 @@
 # Indian-Airlines-Ticket-Price
 
-# Big-basket-analysis-
 
 <h1 align="center">Hi 👋, I'm suraj mate</h1>
 <h1 align="center">Hi this is our group project</h1>
