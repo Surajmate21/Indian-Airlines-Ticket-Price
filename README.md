@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm suraj mate</h1>
 <h1 align="center">Hi this is our group project</h1>
+<h1 align="center">My team members are Afifa and Shubham</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
 - 📫 How to reach me **smate4986@gmail.com**
@@ -15,3 +16,5 @@
 ### Project Overview
 
 Flight pricing is dynamic and influenced by various factors—duration, stops, airline, time of booking, etc. This project challenges you to uncover trends in airfare and how different flight attributes impact pricing. Utilize your skills in EDA, SQL, and statistics to derive meaningful insights.
+
+###Conclusion
